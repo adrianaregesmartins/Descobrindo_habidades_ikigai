@@ -1,4 +1,4 @@
-# Descobrindo_habidades_ikigai
+# Descobrindo_habilidades_ikigai
 
 Montando uma apresentação na Gamma.app, partir do seguinte prompt:
 
